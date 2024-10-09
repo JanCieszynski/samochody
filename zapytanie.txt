@@ -1,0 +1,1 @@
+SELECT * FROM auta WHERE idauta>1 AND idauta<5
